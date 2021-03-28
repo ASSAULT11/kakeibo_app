@@ -1,7 +1,7 @@
 .sample {
 	line-height: 1;
 	font-size: 62.5%;
-	font-family: "æ¸¸ã‚´ã‚·ãƒƒã‚¯ä½“", "Yu Gothic", "YuGothic", "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ã‚·ãƒƒã‚¯ Pro", "Hiragino Kaku Gothic Pro", "ãƒ¡ã‚¤ãƒªã‚ª", "Meiryo, Osaka", "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", "sans-serif";
+	font-family: "游ゴシック体", "Yu Gothic", "YuGothic", "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo, Osaka", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
 	color: #333;
 }
 .sample_wrap {
@@ -38,7 +38,7 @@
 	background-color: #FFF;
 }
 .sample_input, .sample_button {
-	font-family: "æ¸¸ã‚´ã‚·ãƒƒã‚¯ä½“", "Yu Gothic", "YuGothic", "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ã‚·ãƒƒã‚¯ Pro", "Hiragino Kaku Gothic Pro", "ãƒ¡ã‚¤ãƒªã‚ª", "Meiryo, Osaka", "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", "sans-serif";
+	font-family: "游ゴシック体", "Yu Gothic", "YuGothic", "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo, Osaka", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
 }
 .sample_input {
 	width: calc(100% - 40px);
