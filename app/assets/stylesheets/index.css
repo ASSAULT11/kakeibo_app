@@ -1,0 +1,63 @@
+.sample {
+	line-height: 1;
+	font-size: 62.5%;
+	font-family: "æ¸¸ã‚´ã‚·ãƒƒã‚¯ä½“", "Yu Gothic", "YuGothic", "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ã‚·ãƒƒã‚¯ Pro", "Hiragino Kaku Gothic Pro", "ãƒ¡ã‚¤ãƒªã‚ª", "Meiryo, Osaka", "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", "sans-serif";
+	color: #333;
+}
+.sample_wrap {
+	width: 560px;
+	padding: 24px;
+	border-radius: 8px;
+	margin: 48px;
+	background-color: #EEE;
+}
+.sample_h1 {
+	margin: 0 0 8px;
+	font-size: 2rem;
+}
+.sample_p {
+	margin: 0;
+	font-size: 1.4rem;
+}
+.sample_table {
+	width: 100%;
+	margin: 24px 0 0;
+	border-collapse: collapse;
+}
+.sample_th, .sample_td {
+	padding: 8px;
+	border: 1px solid #CCC;
+	font-size: 1.6rem;
+}
+.sample_th {
+	width: 120px;
+	font-weight: normal;
+	background-color: #DDD;
+}
+.sample_td {
+	background-color: #FFF;
+}
+.sample_input, .sample_button {
+	font-family: "æ¸¸ã‚´ã‚·ãƒƒã‚¯ä½“", "Yu Gothic", "YuGothic", "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ã‚·ãƒƒã‚¯ Pro", "Hiragino Kaku Gothic Pro", "ãƒ¡ã‚¤ãƒªã‚ª", "Meiryo, Osaka", "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", "sans-serif";
+}
+.sample_input {
+	width: calc(100% - 40px);
+	box-sizing: border-box;
+	padding: 8px;
+	border: 1px solid #CCC;
+	margin-right: 8px;
+	text-align: right;
+	font-size: 1.6rem;
+}
+.sample_input[readonly] {
+	cursor: default;
+	background-color: #DDD;
+}
+.sample_button {
+	display: block;
+	padding: 0 24px;
+	margin: 8px auto 0;
+	font-size: 1.4rem;
+	line-height: 2;
+	cursor: pointer;
+}
